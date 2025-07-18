@@ -11,7 +11,7 @@ A simple Python-based library management system that allows you to manage books 
 ## Classes
 
 ### Book Class
-Represents a book with the following attributes:
+   Represents a book with the following attributes:
 - `title`: The title of the book
 - `author`: The author of the book  
 - `isd`: The ISBN (book identifier)
