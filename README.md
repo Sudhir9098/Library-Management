@@ -24,7 +24,7 @@ Represents a library that can hold multiple books.
 
 **Attributes:**
 - `name`: Name of the library
-- `books`: List of books in the library
+- `books`: List of books in the      library
 
 **Methods:**
 - `add_book(book)`: Adds a book to the library
