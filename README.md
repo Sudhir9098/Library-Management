@@ -16,7 +16,7 @@ A simple Python-based library management system that allows you to manage books 
 - `author`: The author of the book  
 - `isd`: The ISBN (book identifier)
 
-**Methods:**
+   **Methods:**
 - `info()`: Displays book information (title, author, ISBN)
 
 ### Library Class
